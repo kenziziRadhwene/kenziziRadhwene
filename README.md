@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 👋 Hey, I'm **Radhwen**  
-## **Back-End Developer | IT Student | Passionate about Tech**
+## **Full Stack Developer | IT Student | Passionate about Tech**
 
 I'm passionate about solving complex problems with clean and scalable code. I specialize in **Back-End Development**, and I'm constantly exploring new technologies to stay at the forefront of the industry.
 
