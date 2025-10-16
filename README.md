@@ -43,7 +43,7 @@ I'm passionate about solving complex problems with clean and scalable code. I sp
   <a href="https://github.com/kenziziRadhwene">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:radhwene.kenzizi@zaghouan.r-iset.tn">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
