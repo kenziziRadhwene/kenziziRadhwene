@@ -50,4 +50,4 @@ I'm passionate about solving complex problems with clean and scalable code. I sp
 
 ---
 
-✨ *"Code is logical poetry."* — Inspired by Margaret Hamilton
+📊 *"Information is the oil of the 21st century, and analytics is the combustion engine."* — Peter Sondergaard
